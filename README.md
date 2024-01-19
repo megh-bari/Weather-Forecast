@@ -11,13 +11,13 @@ This project is a simple and intuitive weather application.
 1. Clone the repository:
 <pre>
     <code id="your-code-block-id">
-  https://github.com/megh-bari/Github-Login-Page-Clone.git
+ https://github.com/megh-bari/Weather-Forecast.git
     </code>
 </pre>
 2. Navigate to the Project Directory:
 <pre>
     <code>
- cd Github-Login-Page-Clone
+ cd Weather-Forecast
     </code>
  
 </pre>
